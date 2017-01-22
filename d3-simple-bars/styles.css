@@ -1,0 +1,19 @@
+.chart{
+	background-color: lightgrey;
+	border: solid black 1px;
+	min-width: 200px;
+	min-height: 350px;
+}
+
+.bar{
+	height: 30px;
+	color: green;
+	stroke: black;
+	fill: lightgreen;
+	pointer-events: all;
+}
+text{
+	pointer-events: none;
+}
+
+

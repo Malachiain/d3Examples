@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../d3-examples/d3-simple-bars/d3-simple-bars.iml" filepath="$PROJECT_DIR$/../d3-examples/d3-simple-bars/d3-simple-bars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d3-simple-chart.iml" filepath="$PROJECT_DIR$/d3-simple-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hypermediaExample/hypermediaExample.iml" filepath="$PROJECT_DIR$/../../hypermediaExample/hypermediaExample.iml" />
+    </modules>
+  </component>
+</project>
